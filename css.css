@@ -1,0 +1,52 @@
+/* .card1{
+    width: 400px;
+    margin-left: 100px;
+    transition-duration: 0s;
+} */
+.card1:hover{
+    box-shadow: 14px 20px 10px black;
+}
+.card2{
+    /* width: 400px; */
+    transition-duration: 0s;
+}
+.card2:hover{
+    box-shadow: 14px 20px 10px black;
+}
+/* .card3{
+    width: 400px;
+    height: 400px;
+    margin-left: 100px;
+    transition-duration: 0s;
+} */
+.card3:hover{
+    box-shadow: 14px 20px 10px black;
+}
+/* .card4{
+    width: 400px;
+    height: 400px;
+    transition-duration: 0s;
+} */
+.card4:hover{
+    box-shadow: 14px 20px 10px black;
+}
+/* .ed{
+    margin: 50px;
+} */
+/* .ed1{
+    width: 600px;
+    margin-left: 300px;
+    padding: 20px;
+} */
+.ed1:hover{
+    box-shadow: 14px 20px 20px black;
+}
+/* .ed2{
+    width: 600px;
+    margin-top: 20px;
+    margin-left: 300px;
+    padding: 20px;
+} */
+.ed2:hover{
+    box-shadow: 14px 20px 20px black;
+}
